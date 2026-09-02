@@ -1,0 +1,1 @@
+function e(e){return`https://sologle.github.io/zvukavuho-site${e}`}export{e as t};
