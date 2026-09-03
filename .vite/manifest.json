@@ -14,15 +14,15 @@
     "file": "_next/static/chunks/site-config-CQP7uwVa.js",
     "name": "site-config"
   },
-  "_vinext-CBLIpsvA.js": {
-    "file": "_next/static/chunks/vinext-CBLIpsvA.js",
+  "_vinext-Dsz41K-v.js": {
+    "file": "_next/static/chunks/vinext-Dsz41K-v.js",
     "name": "vinext",
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-DTZGTDtF.js"
     ],
     "dynamicImports": [
-      "_vinext-CBLIpsvA.js"
+      "_vinext-Dsz41K-v.js"
     ]
   },
   "components/cookie-notice.tsx": {
@@ -58,39 +58,39 @@
     ]
   },
   "node_modules/vinext/dist/shims/image.js": {
-    "file": "_next/static/chunks/image-DIiWMAEy.js",
+    "file": "_next/static/chunks/image-C4lEnZ3k.js",
     "name": "image",
     "src": "node_modules/vinext/dist/shims/image.js",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-DTZGTDtF.js",
-      "_vinext-CBLIpsvA.js"
+      "_vinext-Dsz41K-v.js"
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "_next/static/chunks/layout-segment-context-9KkNOm2v.js",
+    "file": "_next/static/chunks/layout-segment-context-Ds2MRAzo.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-DTZGTDtF.js",
-      "_vinext-CBLIpsvA.js"
+      "_vinext-Dsz41K-v.js"
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "_next/static/chunks/index-CgsLCJWB.js",
+    "file": "_next/static/chunks/index-CZT-AoPQ.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-DTZGTDtF.js",
-      "_vinext-CBLIpsvA.js"
+      "_vinext-Dsz41K-v.js"
     ],
     "dynamicImports": [
-      "_vinext-CBLIpsvA.js",
+      "_vinext-Dsz41K-v.js",
       "node_modules/vinext/dist/shims/layout-segment-context.js",
       "node_modules/lucide-react/dist/esm/Icon.mjs",
       "node_modules/vinext/dist/shims/image.js",
