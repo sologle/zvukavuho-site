@@ -1,4 +1,36 @@
 {
+  "../../zvukaVuho/site/node_modules/lucide-react/dist/esm/Icon.mjs": {
+    "file": "_next/static/chunks/Icon-Blaqac3y.js",
+    "name": "Icon",
+    "src": "../../zvukaVuho/site/node_modules/lucide-react/dist/esm/Icon.mjs",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-hePW80VL.js",
+      "_framework-DTZGTDtF.js"
+    ]
+  },
+  "../../zvukaVuho/site/node_modules/vinext/dist/shims/image.js": {
+    "file": "_next/static/chunks/image-BKY2d6PB.js",
+    "name": "image",
+    "src": "../../zvukaVuho/site/node_modules/vinext/dist/shims/image.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-hePW80VL.js",
+      "_framework-DTZGTDtF.js",
+      "_vinext-CMLYQpYL.js"
+    ]
+  },
+  "../../zvukaVuho/site/node_modules/vinext/dist/shims/layout-segment-context.js": {
+    "file": "_next/static/chunks/layout-segment-context-9DyUSdQy.js",
+    "name": "layout-segment-context",
+    "src": "../../zvukaVuho/site/node_modules/vinext/dist/shims/layout-segment-context.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-hePW80VL.js",
+      "_framework-DTZGTDtF.js",
+      "_vinext-CMLYQpYL.js"
+    ]
+  },
   "_framework-DTZGTDtF.js": {
     "file": "_next/static/chunks/framework-DTZGTDtF.js",
     "name": "framework",
@@ -14,15 +46,15 @@
     "file": "_next/static/chunks/site-config-CQP7uwVa.js",
     "name": "site-config"
   },
-  "_vinext-BwZjMjNh.js": {
-    "file": "_next/static/chunks/vinext-BwZjMjNh.js",
+  "_vinext-CMLYQpYL.js": {
+    "file": "_next/static/chunks/vinext-CMLYQpYL.js",
     "name": "vinext",
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-DTZGTDtF.js"
     ],
     "dynamicImports": [
-      "_vinext-BwZjMjNh.js"
+      "_vinext-CMLYQpYL.js"
     ]
   },
   "components/cookie-notice.tsx": {
@@ -37,7 +69,7 @@
     ]
   },
   "components/prime-consent.tsx": {
-    "file": "_next/static/chunks/prime-consent-ByLcZqO1.js",
+    "file": "_next/static/chunks/prime-consent-H-EiHNFP.js",
     "name": "prime-consent",
     "src": "components/prime-consent.tsx",
     "isDynamicEntry": true,
@@ -47,54 +79,22 @@
       "_site-config-CQP7uwVa.js"
     ]
   },
-  "node_modules/lucide-react/dist/esm/Icon.mjs": {
-    "file": "_next/static/chunks/Icon-Blaqac3y.js",
-    "name": "Icon",
-    "src": "node_modules/lucide-react/dist/esm/Icon.mjs",
-    "isDynamicEntry": true,
-    "imports": [
-      "_rolldown-runtime-hePW80VL.js",
-      "_framework-DTZGTDtF.js"
-    ]
-  },
-  "node_modules/vinext/dist/shims/image.js": {
-    "file": "_next/static/chunks/image-C-BNg7CN.js",
-    "name": "image",
-    "src": "node_modules/vinext/dist/shims/image.js",
-    "isDynamicEntry": true,
-    "imports": [
-      "_rolldown-runtime-hePW80VL.js",
-      "_framework-DTZGTDtF.js",
-      "_vinext-BwZjMjNh.js"
-    ]
-  },
-  "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "_next/static/chunks/layout-segment-context-NZCzwYKY.js",
-    "name": "layout-segment-context",
-    "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
-    "isDynamicEntry": true,
-    "imports": [
-      "_rolldown-runtime-hePW80VL.js",
-      "_framework-DTZGTDtF.js",
-      "_vinext-BwZjMjNh.js"
-    ]
-  },
   "virtual:vinext-app-browser-entry": {
-    "file": "_next/static/chunks/index-BAZjswPZ.js",
+    "file": "_next/static/chunks/index-CJHf6_tV.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-DTZGTDtF.js",
-      "_vinext-BwZjMjNh.js"
+      "_vinext-CMLYQpYL.js"
     ],
     "dynamicImports": [
-      "_vinext-BwZjMjNh.js",
-      "node_modules/vinext/dist/shims/layout-segment-context.js",
-      "node_modules/lucide-react/dist/esm/Icon.mjs",
-      "node_modules/vinext/dist/shims/image.js",
+      "../../zvukaVuho/site/node_modules/vinext/dist/shims/layout-segment-context.js",
+      "_vinext-CMLYQpYL.js",
+      "../../zvukaVuho/site/node_modules/vinext/dist/shims/image.js",
       "components/prime-consent.tsx",
+      "../../zvukaVuho/site/node_modules/lucide-react/dist/esm/Icon.mjs",
       "components/cookie-notice.tsx"
     ]
   }
